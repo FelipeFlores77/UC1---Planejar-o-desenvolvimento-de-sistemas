@@ -1,0 +1,20 @@
+// Fazendo um bolo de 3 camadas 
+zeroPasso = "0. Higienize a mesa ou o local que você fará seu bolo.\n"
+primeiroPasso = "1. Separe os ingredientes \n"
+segundoPasso = "2. Para fazer a massa use gemas de ovo,agua,açucar,xicaras de cha,fermento em pó,claras de ovo"
+terceiroPasso = "3. Para fazer o recheio use leite condensado,leite,gema de ovo e amido de milho \n"
+quartoPasso = "4. Para a montagem vamos usar morango picado,chantilly batido e morangoa gosto para decorar \n"
+quintoPasso = "5. Preparo da massa \n"
+sextoPasso = "6. Bata 4 gemas com 1 xicara de chá de água até espumar, em seguida adicione 2 xicaras de chá de açucar e bata até formar um creme \n"
+setimoPasso = "7. Acrescente 2 xicaras de chá de farinha de trigo e 1 colher de sopa de fermento em pó peneirados,misture delicadamente. \n"
+oitavoPasso = "8. Bata 4 claras até o ponto de neves e adicione à mistura delicadamente \n"
+nonoPasso = "9. Unte uma forma de fundo falso com margarina,depois forre com papel manteiga e unte novamente. \n"
+decimoPasso = "10. Transfira a massa para a forma e leve para assar em forno pré aquecido a 180 graus Celsios por 40 minutos.\n "
+decimoPrimeiroPasso = "11. Faça o recheio \n"
+decimoSegundoPasso = "12. Vamos fazer a montagem \n"
+decimoTerceiroPasso = "13. Corte o bolo em tres partes e espalhe o recheio,adicione o morango picado e repita o procedimento em mais uma camada do bolo \n"
+decimoQuartoPasso = "14. Coloque a parte de cima do bolo e cubra com chantilly batido \n"
+decimoQuintoPasso = "15. Decore com morangos a gosto e sirva em seguida \n"
+decimoSextoPasso = "16. Fim,Saboreie o bolo. \n"
+//utlizando o console.log para exibir as informações
+console.log(zeroPasso,primeiroPasso,segundoPasso,terceiroPasso,quartoPasso,quintoPasso,sextoPasso,setimoPasso,oitavoPasso,nonoPasso,decimoPasso,decimoPrimeiroPasso,decimoSegundoPasso,decimoTerceiroPasso,decimoQuartoPasso,decimoQuintoPasso,decimoSextoPasso)
